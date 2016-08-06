@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Next colors are slightly different to prevent window animation bug on Android 6.0 -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_30">#eaeaea</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="accent">#F57F17</color>
+    <color name="text_primary_light">#FFFFFF</color>
+    <color name="error_color">#CC3322</color>
+    <color name="black">#000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="dark_red">#B71C1C</color>
+    <color name="dark_yellow">#F8E71C</color>
+    <color name="alpha_dark_yellow">#66F8E71C</color>
+
+    <color name="dark_grey">#282828</color>
+    <color name="light_grey">#454545</color>
+    <color name="purplish_grey">#6e6c6e</color>
+    <color name="light_dark_grey">#4a4a4a</color>
+
+    <color name="dark_red_gradient">#FF0000</color>
+    <color name="light_red_gradient">#FFB4B4</color>
+    <color name="light_blue_60">#994A90E2</color>
+    <color name="light_blue_90">#E64A90E2</color>
+
+    <color name="windows_blue">#4181ca</color>
+    <color name="light_blue">#6eabf2</color>
+
+    <color name="warm_grey">#979797</color>
+
+    <color name="light_mustard">#fad961</color>
+    <color name="orange">#f76b1c</color>
+
+    <color name="off_yellow">#f8e03c</color>
+    <color name="sandy_yellow">#fcea73</color>
+
+
+    <color name="blue_usher">#1887F9</color>
+    <color name="field_solid">#F5F5F5</color>
+    <color name="field_stroke">#F2F2F2</color>
+
+</resources>

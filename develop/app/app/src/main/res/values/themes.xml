@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+    <style name="AppTheme" parent="AppBaseTheme"/>
+
+    <style name="ClaimTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionOverflowButtonStyle">@null</item>
+    </style>
+
+    <!-- Style to replace actionbar overflow icon. set item 'android:actionOverflowButtonStyle' in AppTheme -->
+    <style name="MyActionButtonOverflow" parent="android:style/Widget.Holo.Light.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_settings_yellow_20dp</item>
+        <item name="android:showAsAction">always</item>
+    </style>
+
+
+    <style name="SelectorAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <style name="SelectorAppTheme.FrameLayout">
+        <item name="colorControlHighlight">?colorPrimary</item>
+    </style>
+
+    <style name="SelectorAppTheme.Full"/>
+
+    <style name="SelectorAppTheme.Full.NoTitle">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="SelectorAppTheme.Full.NoTitle.Dark">
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+
+</resources>

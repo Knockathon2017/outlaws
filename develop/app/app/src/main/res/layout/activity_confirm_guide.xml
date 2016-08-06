@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/verify_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        layout="@layout/layout_actionbar_confirm"/>
+
+    <TextView
+        android:id="@+id/tv_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_20sp"
+        android:maxLines="2"
+        android:minLines="2"
+        android:ems="7"
+        android:gravity="center"
+        android:layout_marginTop="@dimen/margin_20dp"
+        android:layout_below="@+id/verify_actionbar"
+        android:layout_centerHorizontal="true"
+        android:ellipsize="end"
+        android:text="Your Confirmation send to Mr."/>
+
+
+    <RelativeLayout
+        android:id="@+id/rl_main"
+        android:layout_width="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_below="@+id/tv_heading"
+        android:layout_marginTop="@dimen/margin_20dp"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/imv_guideimage"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/guide_place_holder"/>
+
+        <LinearLayout
+            android:id="@+id/llmain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/imv_guideimage"
+            android:layout_marginTop="10dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_16sp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:text="Adhish Aggarwal"/>
+
+            <RatingBar
+                android:id="@+id/ratingbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_10dp"
+                style="?android:attr/ratingBarStyleSmall"
+                android:rating="0" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/address_header"
+        android:layout_width="match_parent"
+        android:textSize="@dimen/text_16sp"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:ems="7"
+        android:maxLines="3"
+        android:minLines="2"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_main"
+        android:layout_marginTop="30dp"
+        android:text="Your Guide will contact you within 10 Minutes! Also you will get your guide contact details via SMS."/>
+
+    <ImageView
+        android:id="@+id/img_feedback"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btn_done_main"
+        android:src="@drawable/feed_back"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="@dimen/margin_10dp"
+        android:layout_marginTop="30dp"/>
+
+    <Button
+        android:id="@+id/btn_done_main"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:text="THANK YOU"
+        android:textColor="@color/white"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"
+        android:background="@color/blue_usher"
+        android:layout_marginTop="@dimen/margin_20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ProgressBar
+        android:id="@+id/pb_login"
+        android:layout_width="wrap_content"
+        android:layout_height="36dp"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="18dp"
+        android:visibility="gone" />
+
+</RelativeLayout>

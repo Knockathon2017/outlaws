@@ -1,0 +1,22 @@
+<resources>
+    <declare-styleable name="DisplayView">
+        <attr name="labelColor" format="color"/>
+        <attr name="labelHeight" format="dimension"/>
+        <attr name="labelPosition" format="enum">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr>
+        <attr name="labelWidth" format="dimension"/>
+        <attr name="labelY" format="dimension"/>
+        <attr name="GridColumns" format="integer"/>
+        <attr name="GridRows" format="integer"/>
+        <attr name="pointerRadius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="ForegroundImageView">
+        <attr name="android:foreground" />
+    </declare-styleable>
+
+    <attr name="aspect" />
+
+</resources>

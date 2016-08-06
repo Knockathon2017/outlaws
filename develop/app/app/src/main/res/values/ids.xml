@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016. Exzeo Software Pvt. Ltd.
+  -->
+
+<resources>
+    <item name="toolbar" type="id"/>
+    <item name="appbar" type="id"/>
+
+    <item name="menu_crop" type="id" />
+    <item name="menu_crop_rect" type="id" />
+    <item name="menu_crop_square" type="id" />
+    <item name="menu_crop_circle" type="id" />
+    <item name="tag_item" type="id" />
+
+</resources>
