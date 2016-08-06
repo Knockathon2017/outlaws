@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/ic_splash_bg"
+              android:weightSum="4">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="3.5">
+
+        <ImageView
+            android:id="@+id/imv_justerlogo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_tripusher_icon"
+            android:layout_centerHorizontal="true"
+            android:visibility="visible"
+            android:layout_marginTop="110dp"/>
+
+        <EditText
+            android:id="@+id/et_login_user_name"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginEnd="55dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginTop="60dp"
+            android:layout_below="@+id/imv_justerlogo"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:hint="Contact Number"
+            android:inputType="phone"
+            android:textSize="@dimen/text_14sp"
+            android:drawableEnd="@drawable/ic_user_name"
+            android:background="@drawable/shape_round_edittext_background"/>
+
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginEnd="55dp"
+            android:layout_marginStart="55dp"
+            android:layout_below="@+id/et_login_user_name"
+            android:layout_marginTop="10dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:textSize="@dimen/text_14sp"
+            android:drawableEnd="@drawable/ic_password"
+            android:background="@drawable/shape_round_edittext_background"/>
+
+        <CheckBox
+            android:id="@+id/is_guide"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/et_password"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="55dp"
+            android:layout_marginTop="10dp"
+            android:text="Guide"/>
+
+        <TextView
+            android:id="@+id/tv_trouble"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="55dp"
+            android:text="Having Trouble?"
+            android:visibility="gone"
+            android:textColor="@color/light_dark_grey"
+            android:layout_marginTop="20dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/is_guide"/>
+
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_centerHorizontal="true"
+            android:text="LOGIN"
+            android:textColor="@color/white"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:layout_marginTop="@dimen/margin_20dp"
+            android:layout_below="@+id/is_guide"
+            android:background="@drawable/shape_round_button_background_grey"/>
+
+        <ProgressBar
+            android:id="@+id/pb_login"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="18dp"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:visibility="visible"
+        android:layout_weight=".5">
+
+        <TextView
+            android:id="@+id/tv_signup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New User? Sign Up"
+            android:layout_alignParentBottom="true"
+            android:layout_above="@+id/sign_in_button"
+            android:textColor="@color/light_dark_grey"
+            android:layout_marginBottom="40dp"
+            android:layout_centerHorizontal="true" />
+
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/sign_in_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@null"
+            android:visibility="gone"
+            android:layout_marginBottom="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginTop="20dp" />
+    </RelativeLayout>
+</LinearLayout>

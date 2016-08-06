@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "489669425605",
+    "project_id": "firebase-juster"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489669425605:android:fb3ed18e74cb474a",
+        "android_client_info": {
+          "package_name": "com.juster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489669425605-03qpr8j90fhg4ui6mfovujnabtq55idi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juster",
+            "certificate_hash": "2D6F9A16F94D9DF408D5AB49F7CE05E5CDBC4C62"
+          }
+        },
+        {
+          "client_id": "489669425605-5bkqvs3gk50as0uikg9t0siaqqt2h8gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Z52JcxLeUuxIRFi1lhvGkqqdEke1wc0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

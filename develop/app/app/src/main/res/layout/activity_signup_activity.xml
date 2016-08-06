@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/ic_splash_bg">
+    <include
+        android:id="@+id/signup_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        layout="@layout/layout_signup_actionbar"/>
+
+    <RelativeLayout
+        android:id="@+id/rl_select"
+        android:layout_below="@+id/signup_actionbar"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_header_signup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:textSize="24dp"
+            android:text="You are a"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_marginTop="7dp"
+            android:layout_below="@+id/tv_header_signup">
+
+            <TextView
+                android:id="@+id/tv_tourist"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24dp"
+                android:textColor="@color/blue_usher"
+                android:text="TOURIST"/>
+
+            <TextView
+                android:id="@+id/tv_slash"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24dp"
+                android:text="   or   "/>
+
+            <TextView
+                android:id="@+id/tv_guide"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="24dp"
+                android:textColor="@color/dark_grey"
+                android:text="GUIDE"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/rl_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <EditText
+            android:id="@+id/et_contact_no"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginEnd="55dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginTop="10dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:hint="Contact Number"
+            android:inputType="phone"
+            android:textSize="@dimen/text_14sp"
+            android:background="@drawable/shape_round_edittext_background"/>
+
+
+        <EditText
+            android:id="@+id/et_user_name"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginEnd="55dp"
+            android:layout_marginStart="55dp"
+            android:layout_marginTop="10dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="10dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:hint="Name"
+            android:layout_below="@+id/et_contact_no"
+            android:inputType="textEmailAddress"
+            android:textSize="@dimen/text_14sp"
+            android:background="@drawable/shape_round_edittext_background"/>
+
+        <EditText
+            android:id="@+id/et_licence"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginEnd="55dp"
+            android:layout_marginStart="55dp"
+            android:layout_below="@+id/et_user_name"
+            android:layout_marginTop="10dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:visibility="gone"
+            android:hint="Licence Number"
+            android:inputType="text"
+            android:textSize="@dimen/text_14sp"
+            android:background="@drawable/shape_round_edittext_background"/>
+
+
+        <EditText
+            android:id="@+id/et_password"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginEnd="55dp"
+            android:layout_marginStart="55dp"
+            android:layout_below="@+id/et_licence"
+            android:layout_marginTop="10dp"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:hint="Password*"
+            android:inputType="textPassword"
+            android:textSize="@dimen/text_14sp"
+            android:background="@drawable/shape_round_edittext_background"/>
+
+        <Button
+            android:id="@+id/btn_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_centerHorizontal="true"
+            android:text="Sign Up"
+            android:textColor="@color/white"
+            android:paddingStart="40dp"
+            android:paddingEnd="40dp"
+            android:layout_marginTop="@dimen/margin_20dp"
+            android:layout_below="@+id/et_password"
+            android:background="@drawable/shape_round_button_background_grey"/>
+
+        <ProgressBar
+            android:id="@+id/pb_login"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:layout_centerInParent="true"
+            android:layout_marginTop="18dp"
+            android:visibility="gone" />
+    </RelativeLayout>
+</RelativeLayout>
