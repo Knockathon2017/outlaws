@@ -36,7 +36,8 @@
     "react-router": "^2.4.1",
     "redux": "^3.5.2",
     "redux-thunk": "^2.1.0",
-    "sanitize-html": "^1.11.4"
+    "sanitize-html": "^1.11.4",
+    "react-tinymce": "^0.5.1"
   },
   "devDependencies": {
     "ava": "^0.15.2",
@@ -94,7 +95,8 @@
     "webpack-dev-server": "^2.1.0-beta.0",
     "webpack-externals-plugin": "^1.0.0",
     "webpack-hot-middleware": "^2.10.0",
-    "webpack-manifest-plugin": "^1.0.1"
+    "webpack-manifest-plugin": "^1.0.1",
+    "react-tinymce": "^0.5.1"
   },
   "engines": {
     "node": ">=4"

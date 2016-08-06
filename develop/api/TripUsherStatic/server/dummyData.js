@@ -483,8 +483,8 @@ Mahtab Jahan (2004). "Dilli's gates and windows". MG The Milli Gazette Indian Mu
 World Heritage Series – RED FORT. Published by Director General, Archaeological Survey of India, New Delhi, 2009. ISBN 978-81-87780-97-7
 "World Heritage Site – Red Fort, Delhi; Hayat-Bakhsh Garden and Pavilions". Archaeological Survey of India. Retrieved 15 August 2012.`;
 
-    const post1 = new Post({ name: 'Admin', title: 'Qutb Minar', slug: 'Delhi', cuid: 'cikqgkv4q01ck7453ualdn3hd', content: content1 });
-    const post2 = new Post({ name: 'Admin', title: 'Red Fort', slug: 'Delhi', cuid: 'cikqgkv4q01ck7453ualdn3hf', content: content2 });
+    const post1 = new Post({ name: 'Admin', title: 'Qutb Minar', tags:'Qutb Minar New Delhi', slug: 'Delhi',  cuid: 'cikqgkv4q01ck7453ualdn3hd', content: content1 });
+    const post2 = new Post({ name: 'Admin', title: 'Red Fort',  tags:'Red Fort New Delhi', slug: 'Delhi', cuid: 'cikqgkv4q01ck7453ualdn3hf', content: content2 });
 
     Post.create([post1, post2], (error) => {
       if (!error) {

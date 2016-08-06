@@ -69,6 +69,7 @@ const renderFullPage = (html, initialState) => {
     <!doctype html>
     <html>
       <head>
+      <script src="//cdn.tinymce.com/4/tinymce.min.js"></script>
         ${head.base.toString()}
         ${head.title.toString()}
         ${head.meta.toString()}
@@ -89,6 +90,7 @@ const renderFullPage = (html, initialState) => {
         </script>
         <script src='${process.env.NODE_ENV === 'production' ? assetsManifest['/vendor.js'] : '/vendor.js'}'></script>
         <script src='${process.env.NODE_ENV === 'production' ? assetsManifest['/app.js'] : '/app.js'}'></script>
+        
       </body>
     </html>
   `;

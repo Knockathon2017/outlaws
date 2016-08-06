@@ -20,6 +20,7 @@ export function addPostRequest(post) {
         name: post.name,
         title: post.title,
         content: post.content,
+        tags: post.tags,
       },
     }).then(res => dispatch(addPost(res.post)));
   };
@@ -43,6 +44,13 @@ export function fetchPosts() {
 export function fetchPost(cuid) {
   return (dispatch) => {
     return callApi(`posts/${cuid}`).then(res => dispatch(addPost(res.post)));
+  };
+}
+
+
+export function fetchPostsByTags(tags) {
+  return (dispatch) => {
+    return callApi(`posts/${tags}`).then(res => dispatch(addPost(res.post)));
   };
 }
 

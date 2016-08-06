@@ -18,15 +18,27 @@ export function Header(props, context) {
           {languageNodes}
         </ul>
       </div>
+      <div className={styles.logo}> </div>
       <div className={styles.content}>
         <h1 className={styles['site-title']}>
           <Link to="/" ><FormattedMessage id="siteTitle" /></Link>
         </h1>
+        <div>
+        <div>
         {
           context.router.isActive('/', true)
             ? <a className={styles['add-post-button']} href="#" onClick={props.toggleAddPost}><FormattedMessage id="addPost" /></a>
             : null
+            }
+      </div>
+      <div>
+     {
+             context.router.isActive('/', true)
+            ? <a className={styles['add-post-button']} href="#" onClick={props.toggleAddPost}><FormattedMessage id="addGuide" /></a>
+            : null
         }
+        </div>
+        </div>
       </div>
     </div>
   );

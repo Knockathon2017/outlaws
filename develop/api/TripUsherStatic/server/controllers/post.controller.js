@@ -18,6 +18,22 @@ export function getPosts(req, res) {
   });
 }
 
+
+/**
+ * Get all posts by tags
+ * @param req
+ * @param res
+ * @returns void
+ */
+export function getPostsByTags(req, res) {
+  Post.find({tags: {'$regex':  req.params.tags}}).sort('-dateAdded').exec((err, posts) => {
+    if (err) {
+      res.status(500).send(err);
+    }
+    res.json({ posts });
+  });
+}
+
 /**
  * Save a post
  * @param req
@@ -25,7 +41,7 @@ export function getPosts(req, res) {
  * @returns void
  */
 export function addPost(req, res) {
-  if (!req.body.post.name || !req.body.post.title || !req.body.post.content) {
+  if (!req.body.post.name || !req.body.post.title || !req.body.post.content || !req.body.post.tags) {
     res.status(403).end();
   }
 
@@ -35,6 +51,7 @@ export function addPost(req, res) {
   newPost.title = sanitizeHtml(newPost.title);
   newPost.name = sanitizeHtml(newPost.name);
   newPost.content = sanitizeHtml(newPost.content);
+  newPost.tags = sanitizeHtml(newPost.tags);
 
   newPost.slug = slug(newPost.title.toLowerCase(), { lowercase: true });
   newPost.cuid = cuid();

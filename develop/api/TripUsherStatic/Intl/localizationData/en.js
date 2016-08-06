@@ -1,16 +1,18 @@
 export default {
   locale: 'en',
   messages: {
-    siteTitle: 'Trip Usher',
-    addPost: 'Add Post',
+    siteTitle: 'TripUsher',
+    addPost: 'Add Location',
+    addGuide: 'Add Guide',
     switchLanguage: 'Switch Language',
     twitterMessage: 'We are on Twitter',
     by: 'By',
     deletePost: 'Delete Post',
-    createNewPost: 'Create new post',
+    createNewPost: 'Add New Location',
     authorName: 'Author\'s Name',
-    postTitle: 'Post Title',
-    postContent: 'Post Content',
+    postTitle: 'Location Name',
+    postTags: 'Tags',
+    postContent: 'Location Description',
     submit: 'Submit',
     comment: `user {name} {value, plural,
     	  =0 {does not have any comments}

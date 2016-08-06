@@ -6,6 +6,9 @@ const router = new Router();
 router.route('/posts').get(PostController.getPosts);
 
 // Get one post by cuid
+//router.route('/posts/:tags').get(PostController.getPostsByTags);
+
+// Get one post by cuid
 router.route('/posts/:cuid').get(PostController.getPost);
 
 // Add a new Post

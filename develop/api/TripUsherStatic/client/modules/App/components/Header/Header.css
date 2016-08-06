@@ -1,14 +1,17 @@
 .header {
-  background: #eee url('../../header-bk.png') center;
+  background: #eee url('../../splash_screen copy@4x.png') center;
   background-size: cover;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #1887F9;
+}
+.logo{
+content: url('../../splash_screen copy@4x.png');
 }
 
 .content {
   width: 100%;
   max-width: 980px;
   margin: auto;
-  padding: 64px 16px;
+  padding: 10px 16px;
   overflow: auto;
 }
 
@@ -20,7 +23,7 @@
 
 .site-title a {
   text-decoration: none;
-  color: #FFF;
+  color: #1887F9;
 }
 
 .add-post-button {
@@ -34,7 +37,7 @@
 }
 
 .language-switcher {
-  background: rgba(0, 0, 0, 0.1);
+  background: #F5F5F5;
 }
 
 .language-switcher ul {
@@ -49,15 +52,15 @@
   margin: 10px;
   padding: 5px;
   cursor: pointer;
-  color: #fff;
+  color: #1887F9;
 }
 
 .language-switcher li:first-child {
-  color: rgba(255, 255, 255, 0.7);
+  color:  #1887F9;
 }
 
 .selected {
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #333333;
 }
 
 @media (max-width: 767px){
