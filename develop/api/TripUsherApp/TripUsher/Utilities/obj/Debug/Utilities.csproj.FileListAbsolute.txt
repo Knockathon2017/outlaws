@@ -1,0 +1,4 @@
+D:\TripUsherApp\TripUsher\Utilities\bin\Debug\Utilities.dll
+D:\TripUsherApp\TripUsher\Utilities\bin\Debug\Utilities.pdb
+D:\TripUsherApp\TripUsher\Utilities\obj\Debug\Utilities.dll
+D:\TripUsherApp\TripUsher\Utilities\obj\Debug\Utilities.pdb

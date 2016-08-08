@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/menu/display_menu.xml",
+        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/menu/display_menu.xml"
+    },
+    {
+        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/menu/menu_main.xml"
+    }
+]
