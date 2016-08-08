@@ -78,6 +78,10 @@
                   android:windowSoftInputMode="stateHidden"
                   android:configChanges="orientation|screenSize"/>
 
+        <activity android:name=".login.view.PlaceDetailActivity"
+                  android:windowSoftInputMode="stateHidden"
+                  android:configChanges="orientation|screenSize"/>
+
         <service android:name=".data.api.database.user.service.UserIntentService"/>
         <service android:name=".data.api.database.user.service.GuideIntentService"/>
 

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "outputFile": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 76
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/values-v21/attrs.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/values-v21/attrs.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 657
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/values-v21/attrs.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/values-v21/attrs.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -52,7 +52,7 @@
                     "endOffset": 775
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/values-v21/attrs.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/values-v21/attrs.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -72,7 +72,7 @@
                     "endOffset": 866
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -91,7 +91,7 @@
                     "endOffset": 969
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -110,7 +110,7 @@
                     "endOffset": 1072
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -129,7 +129,7 @@
                     "endOffset": 1177
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -148,7 +148,7 @@
                     "endOffset": 1284
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -167,7 +167,7 @@
                     "endOffset": 1393
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -186,7 +186,7 @@
                     "endOffset": 1502
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -205,7 +205,7 @@
                     "endOffset": 1611
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -224,7 +224,7 @@
                     "endOffset": 1720
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -243,7 +243,7 @@
                     "endOffset": 1829
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -262,7 +262,7 @@
                     "endOffset": 1936
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -281,7 +281,7 @@
                     "endOffset": 2039
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -300,7 +300,7 @@
                     "endOffset": 2158
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 2313
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -341,7 +341,7 @@
                     "endOffset": 2468
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -361,7 +361,7 @@
                     "endOffset": 2573
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -380,7 +380,7 @@
                     "endOffset": 2694
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -399,7 +399,7 @@
                     "endOffset": 2795
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -419,7 +419,7 @@
                     "endOffset": 2942
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -440,7 +440,7 @@
                     "endOffset": 3083
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -460,7 +460,7 @@
                     "endOffset": 3186
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -479,7 +479,7 @@
                     "endOffset": 3305
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -498,7 +498,7 @@
                     "endOffset": 3412
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -517,7 +517,7 @@
                     "endOffset": 3515
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3670
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3841
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3990
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 4155
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 4312
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -642,7 +642,7 @@
                     "endOffset": 4463
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -662,7 +662,7 @@
                     "endOffset": 4582
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 4731
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -703,7 +703,7 @@
                     "endOffset": 4880
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
@@ -723,7 +723,7 @@
                     "endOffset": 4992
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -742,7 +742,7 @@
                     "endOffset": 5139
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -762,7 +762,7 @@
                     "endOffset": 5292
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
@@ -783,7 +783,7 @@
                     "endOffset": 5439
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -803,7 +803,7 @@
                     "endOffset": 5514
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -822,7 +822,7 @@
                     "endOffset": 5603
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -841,7 +841,7 @@
                     "endOffset": 5690
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -860,7 +860,7 @@
                     "endOffset": 5791
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -880,7 +880,7 @@
                     "endOffset": 8859
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
@@ -901,7 +901,7 @@
                     "endOffset": 9045
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 4,
@@ -922,7 +922,7 @@
                     "endOffset": 12125
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
@@ -943,7 +943,7 @@
                     "endOffset": 12323
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 148,
                         "startColumn": 4,
@@ -964,7 +964,7 @@
                     "endOffset": 12446
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
@@ -985,7 +985,7 @@
                     "endOffset": 12569
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
@@ -1006,7 +1006,7 @@
                     "endOffset": 12682
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 155,
                         "startColumn": 4,
@@ -1027,7 +1027,7 @@
                     "endOffset": 12865
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1048,7 +1048,7 @@
                     "endOffset": 12996
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1069,7 +1069,7 @@
                     "endOffset": 13197
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1089,7 +1089,7 @@
                     "endOffset": 13286
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
@@ -1108,7 +1108,7 @@
                     "endOffset": 13397
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1127,7 +1127,7 @@
                     "endOffset": 13524
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
@@ -1146,7 +1146,7 @@
                     "endOffset": 13625
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
@@ -1165,7 +1165,7 @@
                     "endOffset": 13720
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1184,7 +1184,7 @@
                     "endOffset": 13843
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
@@ -1203,7 +1203,7 @@
                     "endOffset": 13972
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1222,7 +1222,7 @@
                     "endOffset": 14089
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -1242,7 +1242,7 @@
                     "endOffset": 14266
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
@@ -1262,7 +1262,7 @@
                     "endOffset": 14365
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1282,7 +1282,7 @@
                     "endOffset": 14500
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -1303,7 +1303,7 @@
                     "endOffset": 14643
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 14778
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1345,7 +1345,7 @@
                     "endOffset": 14897
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1366,7 +1366,7 @@
                     "endOffset": 15098
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
@@ -1387,7 +1387,7 @@
                     "endOffset": 15217
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 189,
                         "startColumn": 4,
@@ -1407,7 +1407,7 @@
                     "endOffset": 15310
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1426,7 +1426,7 @@
                     "endOffset": 15421
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1445,7 +1445,7 @@
                     "endOffset": 15477
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1465,7 +1465,7 @@
                     "endOffset": 15584
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1486,7 +1486,7 @@
                     "endOffset": 15779
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1507,7 +1507,7 @@
                     "endOffset": 15890
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1528,7 +1528,7 @@
                     "endOffset": 16023
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1548,7 +1548,7 @@
                     "endOffset": 16118
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1567,7 +1567,7 @@
                     "endOffset": 16209
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1586,7 +1586,7 @@
                     "endOffset": 16300
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
@@ -1605,7 +1605,7 @@
                     "endOffset": 16417
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1625,7 +1625,7 @@
                     "endOffset": 16556
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
@@ -1646,7 +1646,7 @@
                     "endOffset": 17069
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 4,
@@ -1667,7 +1667,7 @@
                     "endOffset": 17594
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1688,7 +1688,7 @@
                     "endOffset": 18274
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1708,7 +1708,7 @@
                     "endOffset": 18331
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 4,
@@ -1727,7 +1727,7 @@
                     "endOffset": 18389
                 },
                 "from": {
-                    "file": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,

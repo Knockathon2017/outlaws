@@ -93,6 +93,10 @@
             android:name="com.juster.login.view.VerifyMobileActivity"
             android:configChanges="orientation|screenSize"
             android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.juster.login.view.PlaceDetailActivity"
+            android:configChanges="orientation|screenSize"
+            android:windowSoftInputMode="stateHidden" />
 
         <service android:name="com.juster.data.api.database.user.service.UserIntentService" />
         <service android:name="com.juster.data.api.database.user.service.GuideIntentService" />

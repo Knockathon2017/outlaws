@@ -1,206 +1,206 @@
 [
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_round_button_background_grey.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_round_button_background_grey.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/btn_selector.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/btn_selector.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_grey.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_rect_round_corner_grey.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_round_button_yellow.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_round_button_yellow.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_filled_hintlist_checkbox.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_filled_hintlist_checkbox.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_oval_signup_done_btn.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_oval_signup_done_btn.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_dark.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/gradient_background.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/gradient_background.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_circle_checkbox_not_selected.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_circle_checkbox_not_selected.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_grey.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_rect_round_corner_grey.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_orange.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_rect_round_corner_orange.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shader.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shader.png"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_light.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_round_edittext_background.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_round_edittext_background.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_left_round_button.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_left_round_button.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_oval_signup_done_btn.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_oval_signup_done_btn.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_round_button_background_grey.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_round_button_background_grey.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_light.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/gradient_background_red.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/gradient_background_red.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/np_numberpicker_selection_divider_green.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/np_numberpicker_selection_divider_green.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_dark.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/gradient_background.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/gradient_background.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/gradient_background_red.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/gradient_background_red.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_left_round_button.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_left_round_button.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_blue.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_rect_round_corner_blue.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_orange.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_rect_round_corner_orange.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_white.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_rect_round_corner_white.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_round_button_yellow.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_round_button_yellow.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_circle_checkbox_not_selected.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_circle_checkbox_not_selected.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/checkbox_selector.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/checkbox_selector.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_filled_hintlist_checkbox.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_filled_hintlist_checkbox.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/np_numberpicker_selection_divider_green.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/np_numberpicker_selection_divider_green.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/btn_selector.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/btn_selector.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_round_edittext_background.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_round_edittext_background.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_white.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_rect_round_corner_white.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_light.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shader.png",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shader.png"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/checkbox_selector.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/checkbox_selector.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_blue.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/src/main/res/drawable/shape_rect_round_corner_blue.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_text_dark.xml"
     }
 ]

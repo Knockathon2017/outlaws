@@ -7,7 +7,6 @@ import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.ImageView;
@@ -18,7 +17,6 @@ import android.widget.Toast;
 import com.juster.R;
 import com.juster.data.LocalSyncBroadcast;
 import com.juster.data.api.database.user.service.GuideIntentService;
-import com.juster.data.api.database.user.service.UserIntentService;
 import com.juster.logger.LoggerUtils;
 import com.juster.prefs.PreferenceManagerSingleton;
 

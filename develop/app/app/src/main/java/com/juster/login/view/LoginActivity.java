@@ -181,6 +181,7 @@ public class LoginActivity extends AppCompatActivity{
                     Intent navigateIntent = new Intent(LoginActivity.this , SelectLocationActivity.class);
                     navigateIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(navigateIntent);
+                    finish();
                 } else {
                     LoggerUtils.info(TAG, "LoginActivity mUpdateReceiver :::: RESULT_MESSAGE");
                     showMessage("Oops Something went Wrong");

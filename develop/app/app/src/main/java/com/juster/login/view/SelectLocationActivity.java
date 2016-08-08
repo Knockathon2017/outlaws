@@ -121,6 +121,18 @@ public class SelectLocationActivity extends AppCompatActivity {
                 startActivity(navigateIntent);
             }
         });
+
+        Handler handler = new Handler();
+        hideLoginShowProgress();
+        handler.postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                hideProgressShowLogin();
+                rl_bottom.setVisibility(View.VISIBLE);
+                et_destination.setText("Delhi");
+                myRecyclerViewAdapter.updateListData("Delhi");
+            }
+        }, 1000);
     }
 
     private void hideLoginShowProgress() {

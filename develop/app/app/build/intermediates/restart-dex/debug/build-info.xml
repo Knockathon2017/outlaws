@@ -1,33 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    density="xhdpi"
+    density="420dpi"
     format="7"
-    timestamp="87906806528865"
-    token="5872499865004930263" >
+    timestamp="5197529898669"
+    token="-1775468844918225881" >
 
     <task
         name="javac"
-        duration="361" />
+        duration="468" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="157" />
+        duration="16" />
     <task
         name="verifier"
-        duration="30" />
+        duration="1" />
 
     <artifact
-        location="/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
 
-    <build timestamp="87906806528865" >
+    <build timestamp="4298027867365" >
         <artifact
-            location="/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/outputs/apk/app-debug.apk"
+            location="/home/deepakj/Android/outlaws/develop/app/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="5149089987353"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="5197529898669" >
+        <artifact
+            location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

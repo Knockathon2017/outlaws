@@ -10,7 +10,6 @@ import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.juster.R;
 import com.juster.data.api.database.user.model.GuidesDetail;
@@ -92,7 +91,6 @@ public class GuideAdapter extends RecyclerView.Adapter<GuideAdapter.SimpleRvView
 
         @Override
         public void onClick(View v) {
-//            Toast.makeText(mContext, ""+getAdapterPosition(),Toast.LENGTH_SHORT).show();
             Intent intent = new Intent(mContext, GuideDetailActivity.class);
             if(guidesDetails !=null && guidesDetails.get(getAdapterPosition()) != null) {
                 intent.putExtra("guide", guidesDetails.get(getAdapterPosition()));
