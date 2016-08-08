@@ -4,7 +4,39 @@
         "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/juster_app_bg.png"
     },
     {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/akshar_dam_detail.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/akshar_dam_detail.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/buland_darwaza_detail.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/buland_darwaza_detail.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/agra_temple_detail.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/agra_temple_detail.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/akbar_tomb_detail.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/akbar_tomb_detail.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/lotus_temple_detail.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/lotus_temple_detail.png"
+    },
+    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/empty_photo.png",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/empty_photo.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/lotus_temp_detail.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/lotus_temp_detail.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/humayun_tomp_detail.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/humayun_tomp_detail.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/splash_new.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-nodpi/splash_new.png"
     }
 ]

@@ -93,7 +93,7 @@ public class PlaceDetailActivity extends AppCompatActivity {
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.agra_temple));
         } else if (place_name.equals("Buland Darwaza")) {
             tv_image_detail.setText(getString(R.string.buland_darwaza));
-            imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_buland_darwaza));
+            imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.buland_darwaza_detail));
         } else if (place_name.equals("akbar_tomb")) {
             tv_image_detail.setText(getString(R.string.taj_desc));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.akbar_tomb));
@@ -105,13 +105,13 @@ public class PlaceDetailActivity extends AppCompatActivity {
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_india_gate));
         } else if (place_name.equals("Akshar Dham")) {
             tv_image_detail.setText(getString(R.string.akshardham));
-            imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_akshar_dam));
+            imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.akshar_dam_detail));
         } else if (place_name.equals("Lotus Temple")) {
             tv_image_detail.setText(getString(R.string.lotus_temple));
-            imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_lotus_temp));
+            imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.lotus_temp_detail));
         } else if (place_name.equals("Humayun Tomb")) {
             tv_image_detail.setText(getString(R.string.humayun_tomb));
-            imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_humayun_tomp));
+            imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.humayun_tomp_detail));
         }
 
         pb_guides = (ProgressBar) findViewById(R.id.pb_verify);

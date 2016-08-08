@@ -20,12 +20,12 @@
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
-        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
@@ -36,16 +36,20 @@
         "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/ic_lotus_temp.png"
     },
     {
-        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
-        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
-    },
-    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_undo_white_24dp.png",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/ic_undo_white_24dp.png"
     },
     {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/guide_man_1.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/guide_man_1.png"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
@@ -80,12 +84,12 @@
         "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/ic_reschedule_white_20dp.png"
     },
     {
-        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/moti_mosk.png",
-        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/moti_mosk.png"
-    },
-    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/moti_mosk.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/moti_mosk.png"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
@@ -104,12 +108,12 @@
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_crop_16_9_white_24dp.png",
-        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/ic_crop_16_9_white_24dp.png"
-    },
-    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_crop_16_9_white_24dp.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/ic_crop_16_9_white_24dp.png"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_radio_button_unchecked_white_24dp.png",
@@ -170,6 +174,10 @@
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/guide_woman_2.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/guide_woman_2.png"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
@@ -470,6 +478,10 @@
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable-xxhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/guide_woman_1.png",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable-xxhdpi/guide_woman_1.png"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_add.png",

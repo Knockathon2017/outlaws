@@ -18,8 +18,8 @@
         android:layout_below="@+id/verify_actionbar"
         android:layout_marginEnd="@dimen/margin_10dp"
         android:layout_marginStart="@dimen/margin_10dp"
-        android:scaleType="fitXY"
-        android:layout_height="150dp"/>
+        android:scaleType="fitCenter"
+        android:layout_height="160dp"/>
 
     <TextView
         android:id="@+id/tv_detail"

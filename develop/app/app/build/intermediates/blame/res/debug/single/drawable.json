@@ -20,12 +20,12 @@
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_round_button_yellow.xml",
@@ -40,12 +40,12 @@
         "source": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/gradient_background.xml",
-        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/gradient_background.xml"
-    },
-    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/shape_rect_round_corner_grey.xml",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/shape_rect_round_corner_grey.xml"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/gradient_background.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/drawable/gradient_background.xml"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",

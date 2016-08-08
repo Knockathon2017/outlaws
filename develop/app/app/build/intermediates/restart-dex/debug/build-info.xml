@@ -4,30 +4,35 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="9895604850695"
+    timestamp="14711719968071"
     token="-1775468844918225881" >
 
     <task
         name="javac"
-        duration="987" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="425" />
+        duration="0" />
     <task
         name="verifier"
-        duration="40" />
+        duration="0" />
 
     <artifact
-        location="/home/deepakj/Android/outlaws/develop/app/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="9895604850695" >
+    <build timestamp="14546500521773" >
         <artifact
             location="/home/deepakj/Android/outlaws/develop/app/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="14711719968071" >
+        <artifact
+            location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

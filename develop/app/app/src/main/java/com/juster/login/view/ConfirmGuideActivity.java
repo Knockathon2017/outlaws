@@ -1,6 +1,7 @@
 package com.juster.login.view;
 
 import android.app.AlertDialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.os.Bundle;
 import android.os.Handler;
@@ -8,6 +9,7 @@ import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
@@ -68,6 +70,7 @@ public class ConfirmGuideActivity extends AppCompatActivity {
                                     public void onClick(DialogInterface dialog, int id) {
                                         if(userInput.getText().toString().isEmpty())
                                         {
+                                            hideSoftKeyboard(tv_name);
                                             Toast.makeText(ConfirmGuideActivity.this, "Enter some" +
                                                     " Feedback", Toast.LENGTH_SHORT).show();
                                         } else  {
@@ -77,6 +80,7 @@ public class ConfirmGuideActivity extends AppCompatActivity {
                                                 @Override
                                                 public void run() {
                                                     hideProgress();
+                                                    hideSoftKeyboard(tv_name);
                                                     Toast.makeText(ConfirmGuideActivity.this,
                                                             "FeedBack Sent", Toast.LENGTH_SHORT)
                                                             .show();
@@ -117,6 +121,11 @@ public class ConfirmGuideActivity extends AppCompatActivity {
 
     private void hideProgress() {
         pb_login.setVisibility(View.GONE);
+    }
+
+    public void hideSoftKeyboard(View view) {
+        InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
+        imm.hideSoftInputFromWindow(view.getWindowToken(), 0);
     }
 
 }

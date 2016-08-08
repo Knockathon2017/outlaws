@@ -99,8 +99,11 @@ public class VerifyMobileActivity extends AppCompatActivity {
                 public void run() {
                     hideProgressShowSignUp();
                     showMessage("SuccessFully SignUp");
+                    PreferenceManagerSingleton.getInstance(VerifyMobileActivity.this).putTempisLogin(true);
                     Intent navigateIntent = new Intent(VerifyMobileActivity.this, SelectLocationActivity.class);
-                    navigateIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
+                    navigateIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent
+                            .FLAG_ACTIVITY_CLEAR_TASK | Intent
+                            .FLAG_ACTIVITY_NEW_TASK);
                     startActivity(navigateIntent);
                     finish();
                 }

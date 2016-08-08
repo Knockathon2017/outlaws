@@ -1,6 +1,7 @@
 package com.juster.adapter;
 
 import android.content.Context;
+import android.content.Intent;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -11,6 +12,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.juster.R;
+import com.juster.login.view.PlaceDetailActivity;
+import com.juster.prefs.PreferenceManagerSingleton;
 
 /**
  * Created by deepakj on 6/8/16.
@@ -80,13 +83,32 @@ public class GridAdapter extends RecyclerView.Adapter<GridAdapter.SimpleRvViewHo
         else return  0;
     }
 
-    class SimpleRvViewHolder extends RecyclerView.ViewHolder{
+    class SimpleRvViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
         ImageView image;
         TextView tv_view;
         public SimpleRvViewHolder(View itemView) {
             super(itemView);
+            itemView.setOnClickListener(this);
             image = (ImageView) itemView.findViewById(R.id.image);
             tv_view = (TextView) itemView.findViewById(R.id.destination_name);
+        }
+
+        @Override
+        public void onClick(View v) {
+            Intent intent = new Intent(mContext, PlaceDetailActivity.class);
+            try {
+                if(searchText.equalsIgnoreCase("agra")) {
+                    PreferenceManagerSingleton.getInstance(mContext).putTempSearchLocation("Agra");
+                    intent.putExtra("place_name", mStringAgra[getAdapterPosition()]);
+                } else if(searchText.equalsIgnoreCase("delhi")) {
+                    PreferenceManagerSingleton.getInstance(mContext).putTempSearchLocation
+                            ("Delhi");
+                    intent.putExtra("place_name", mStringDelhi[getAdapterPosition()]);
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            mContext.startActivity(intent);
         }
     }
 }

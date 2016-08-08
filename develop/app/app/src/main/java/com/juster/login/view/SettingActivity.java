@@ -69,7 +69,9 @@ public class SettingActivity extends AppCompatActivity {
             public void onClick(View v) {
                 PreferenceManagerSingleton.deleteSharedPreference();
                 Intent navigateIntent = new Intent(SettingActivity.this, LoginActivity.class);
-                navigateIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
+                navigateIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent
+                        .FLAG_ACTIVITY_CLEAR_TASK | Intent
+                        .FLAG_ACTIVITY_NEW_TASK);
                 startActivity(navigateIntent);
                 finish();
             }

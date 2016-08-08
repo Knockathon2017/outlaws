@@ -23,7 +23,7 @@
         android:textSize="16sp"
         android:textColor="@color/dark_grey"
         android:layout_centerVertical="true"
-        android:text="HIRE A GUIDE"
+        android:text="Your Preferences"
         android:layout_toEndOf="@+id/tv_search_scross"
         android:padding="@dimen/padding_10dp"
         android:contentDescription="@string/action_back"
