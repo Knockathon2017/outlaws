@@ -24,12 +24,12 @@
         "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/layout/layout_landing_page.xml"
     },
     {
-        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/layout/layout_mainactiity_actionar.xml",
-        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/layout/layout_mainactiity_actionar.xml"
-    },
-    {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/layout/main.xml",
         "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/layout/layout_mainactiity_actionar.xml",
+        "source": "/home/deepakj/Android/outlaws/develop/app/app/src/main/res/layout/layout_mainactiity_actionar.xml"
     },
     {
         "merged": "/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/merged/debug/layout/activity_select_location.xml",

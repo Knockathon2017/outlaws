@@ -1,2 +1,236 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_10696a111501a40950cc077a755a7cd8c40b6461/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.2.1_4f2b31259adfb9a747ccb2cafa7b0159c9a25d66/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_0bbf83755740c6c5a4a0f5079a71fc6b5ac36fdc/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta2_e30bc2347dcefe915e8f1132a168b4804c942aa6/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/Sdk/build-tools/23.0.3/renderscript/lib/renderscript-v8.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b79706a834fa62fc97734d9e799e98b63536ff8">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_e92ec1593f120e59f2b32d249dbcd35f271636e6/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.2.1_f3132b28c66dc0da6834dd2ce37786b7b79c7e02/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a65d98c9409f271d3209f4cc1f7d8e0391665fa5">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.2.1_0eec1b2ba41d8e89979098767606030b2a520f8a/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_fc2688ac62f34b1f0e9ac8b2706f43d0d2ee7d01/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_2996c3149554df832876f5e924831d1c343230a4/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="07c569a77f437c5c71eac8b1b636a50bebb69a93">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.2.1_7a5ba51ad8d7bd2de3e8fa3e108bcdbda92296fc/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_8347a2afeaf7db29b1a319677ee333392acbbaaf/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.2.1_639a1282df873bac552786d8137dc6ba452ed9ad/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_842dfa5f15f487aadbca19640ccf4c003b393273/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.2.1_c71c1ef2f531bf1d51818ce0220204e14561d969/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta2_fa84f580e19de28f5782d807a1971917c0b1ff87/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_f565022ae594e34964fe6b6f1fe19661ed62b194/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_b2c54dd37853838d1d59a4145938724998107de6/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.2.1_846520183eddea15a69f217ebe0b0d7cd8436d6c/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.2.1_70ca7f4c4c7fa5739f3da6b6064ee0912b73f92d/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d39d171c8c752500d3283c8a90fe747f8d77347">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_980800c13ac84d10ee6e59d466c1d149e347fcf6/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_91c6a7546f79f38912295ce1de7ff0fde92d5da7/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.6.0/212387a39088ecd3daff8e3bfc3bdc4123e33c67/okhttp-2.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.6.0_b4f237c1139dd153632f329be27f7d360c7b9413/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.2.1_4c751841be9caf43ee493091cf077ca421fc7025/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.2.1_8d1332c916855ad6a4d6b0a7d65d681d5c8ff971/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="252f59b12eb50c066bf1ecfee32223856e263113">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b791d6facb5d5d69ac6ab12906160e7e67c95caf/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f8fdf0c8ae3df50cb92b910cd4306f114976c93f/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.9/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1250e88f4b2764043fe4b9c921e83c4d42c5a745">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/pub.devrel-easypermissions-0.1.9_d6f9e373f92877cceff2417ba584c178ffa07885/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bbd51be332bace144b3d16501ec0af379c3c8750">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.2.1_e352afd0aec8c7cb89e5ef9dc9ae7ed5775102fb/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/logging-interceptor/2.6.0/77dc6e1eedd47953b41ef936f20b9b693fe73f6f/logging-interceptor-2.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="77dc6e1eedd47953b41ef936f20b9b693fe73f6f">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-2.6.0_f5bd31fce2c2f25659df6fd1bdad8eb32cfd293c/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.2.1_44237140eacc101539d8949a63807050248fa766/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="edf9a22ebf25281619265079aec8f5d433da1a5c">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.2.1_62091433aea8c99ce2c070d367c7f36b8cef3571/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/exploded-aar/com.timehop.stickyheadersrecyclerview/library/0.4.2/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4967e0e95206c7ce96f6e90a4528bde27c9286c5">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.timehop.stickyheadersrecyclerview-library-0.4.2_ad975389de94e7c1f2311c80391ffe1d70d6f44b/classes.dex" />
+    </item>
+    <item
+        jar="/home/deepakj/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_5a53e254a523a884eb1c3472f7629a54faace291/classes.dex" />
+    </item>
+
+</items>

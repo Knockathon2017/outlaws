@@ -89,28 +89,28 @@ public class PlaceDetailActivity extends AppCompatActivity {
             tv_image_detail.setText(getString(R.string.taj_desc));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_taj_mahal));
         } else if (place_name.equals("Agra temple")) {
-            tv_image_detail.setText(getString(R.string.taj_desc));
+            tv_image_detail.setText(getString(R.string.agra_temple));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.agra_temple));
         } else if (place_name.equals("Buland Darwaza")) {
-            tv_image_detail.setText(getString(R.string.taj_desc));
+            tv_image_detail.setText(getString(R.string.buland_darwaza));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_buland_darwaza));
         } else if (place_name.equals("akbar_tomb")) {
             tv_image_detail.setText(getString(R.string.taj_desc));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.akbar_tomb));
         } else if (place_name.equals("Moti Mosq")) {
-            tv_image_detail.setText(getString(R.string.taj_desc));
+            tv_image_detail.setText(getString(R.string.moti_mosq));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.moti_mosk));
         } else if (place_name.equals("India Gate")) {
             tv_image_detail.setText(getString(R.string.taj_desc));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_india_gate));
         } else if (place_name.equals("Akshar Dham")) {
-            tv_image_detail.setText(getString(R.string.taj_desc));
+            tv_image_detail.setText(getString(R.string.akshardham));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_akshar_dam));
         } else if (place_name.equals("Lotus Temple")) {
-            tv_image_detail.setText(getString(R.string.taj_desc));
+            tv_image_detail.setText(getString(R.string.lotus_temple));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_lotus_temp));
         } else if (place_name.equals("Humayun Tomb")) {
-            tv_image_detail.setText(getString(R.string.taj_desc));
+            tv_image_detail.setText(getString(R.string.humayun_tomb));
             imageView.setImageDrawable(ContextCompat.getDrawable(this, R.drawable.ic_humayun_tomp));
         }
 

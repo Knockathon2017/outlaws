@@ -4,45 +4,30 @@
     api-level="23"
     density="420dpi"
     format="7"
-    timestamp="5197529898669"
+    timestamp="9895604850695"
     token="-1775468844918225881" >
 
     <task
         name="javac"
-        duration="468" />
+        duration="987" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="16" />
+        duration="425" />
     <task
         name="verifier"
-        duration="1" />
+        duration="40" />
 
     <artifact
-        location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-        type="DEX" />
+        location="/home/deepakj/Android/outlaws/develop/app/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="4298027867365" >
+    <build timestamp="9895604850695" >
         <artifact
             location="/home/deepakj/Android/outlaws/develop/app/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="5149089987353"
-        verifier="CLASS_ADDED" >
-        <artifact
-            location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/resources-debug.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-    </build>
-    <build timestamp="5197529898669" >
-        <artifact
-            location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>
