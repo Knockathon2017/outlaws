@@ -9,6 +9,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.TypedValue;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.juster.R;
@@ -25,12 +26,15 @@ public class HireGuideActivity extends AppCompatActivity {
     private FlowLayout chipLayout;
     private Button btn_find;
     TextView current_selected_location;
+    ImageView tv_search_scross;
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hire_guide);
         chipLayout = (FlowLayout) findViewById(R.id.chipLayout);
+        tv_search_scross = (ImageView) findViewById(R.id.tv_search_scross);
+
         current_selected_location = (TextView) findViewById(R.id.current_selected_location);
         current_selected_location.setText(PreferenceManagerSingleton.getInstance(this)
                 .getTempSearchLocation() != null ? PreferenceManagerSingleton.getInstance(this)
@@ -49,6 +53,13 @@ public class HireGuideActivity extends AppCompatActivity {
                 Intent navigateIntent = new Intent(HireGuideActivity.this, GuideListActivity.class);
                 navigateIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
                 startActivity(navigateIntent);
+            }
+        });
+
+        tv_search_scross.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                finish();
             }
         });
     }

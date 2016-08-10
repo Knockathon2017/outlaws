@@ -2,6 +2,7 @@ package com.juster.adapter;
 
 import android.content.Context;
 import android.content.Intent;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -10,7 +11,6 @@ import android.widget.AdapterView;
 import android.widget.ImageView;
 import android.widget.RatingBar;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.juster.R;
 import com.juster.data.api.database.user.model.GuidesDetail;
@@ -58,6 +58,16 @@ public class GuideAdapter extends RecyclerView.Adapter<GuideAdapter.SimpleRvView
         if(guidesDetails!=null && guidesDetails.size() > 0) {
             holder.tv_review.setText(guidesDetails.get(position).getRatingCount() + " Reviews");
             holder.tv_ratingvar.setRating(guidesDetails.get(position).getRating());
+
+            if(guidesDetails.get(position).getGender() == null) {
+
+            } else  if(guidesDetails.get(position).getGender().equalsIgnoreCase("Male"))
+                holder.image.setImageDrawable(ContextCompat.getDrawable(mContext, R
+                        .drawable.guide_man_1));
+            else if(guidesDetails.get(position).getGender().equalsIgnoreCase("Female")) {
+                holder.image.setImageDrawable(ContextCompat.getDrawable(mContext, R
+                        .drawable.guide_woman_1));
+            }
         }
     }
 
@@ -84,7 +94,7 @@ public class GuideAdapter extends RecyclerView.Adapter<GuideAdapter.SimpleRvView
         public SimpleRvViewHolder(View itemView) {
             super(itemView);
             itemView.setOnClickListener(this);
-            image = (ImageView) itemView.findViewById(R.id.image);
+            image = (ImageView) itemView.findViewById(R.id.imv_guideimage);
             tv_name = (TextView) itemView.findViewById(R.id.tvname);
             tv_ratingvar = (RatingBar) itemView.findViewById(R.id.ratingbar);
             tv_review = (TextView) itemView.findViewById(R.id.feedback);
@@ -92,7 +102,6 @@ public class GuideAdapter extends RecyclerView.Adapter<GuideAdapter.SimpleRvView
 
         @Override
         public void onClick(View v) {
-//            Toast.makeText(mContext, ""+getAdapterPosition(),Toast.LENGTH_SHORT).show();
             Intent intent = new Intent(mContext, GuideDetailActivity.class);
             if(guidesDetails !=null && guidesDetails.get(getAdapterPosition()) != null) {
                 intent.putExtra("guide", guidesDetails.get(getAdapterPosition()));

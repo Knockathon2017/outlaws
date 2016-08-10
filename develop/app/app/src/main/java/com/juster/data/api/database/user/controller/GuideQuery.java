@@ -148,7 +148,7 @@ public class GuideQuery {
                 values.put(GuideContract.GuideTable.COLUMN_USER_NAME, guidesDetail.getName());
                 values.put(GuideContract.GuideTable.COLUMN_USER_RATING, guidesDetail.getRating());
                 values.put(GuideContract.GuideTable.COLUMN_USER_REVIEW_COUNT, guidesDetail.getRatingCount());
-                values.put(GuideContract.GuideTable.COLUMN_ADDRESS, guidesDetail.getGender());
+                values.put(GuideContract.GuideTable.COLUMN_GENDER, guidesDetail.getGender());
                 values.put(GuideContract.GuideTable.COLUMN_ADDRESS, guidesDetail.getAddress());
                 values.put(GuideContract.GuideTable.COLUMN_LANGUAGES, guidesDetail.getLanguages());
                 values.put(GuideContract.GuideTable.COLUMN_DATE_OF_BIRTH, guidesDetail.getDateOfBirth());

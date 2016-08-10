@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="arm64-v8a,armeabi-v7a,armeabi"
     api-level="23"
-    density="xhdpi"
+    density="420dpi"
     format="7"
-    timestamp="87906806528865"
-    token="5872499865004930263" >
+    timestamp="14711719968071"
+    token="-1775468844918225881" >
 
     <task
         name="javac"
-        duration="361" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="157" />
+        duration="0" />
     <task
         name="verifier"
-        duration="30" />
+        duration="0" />
 
     <artifact
-        location="/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="87906806528865" >
+    <build timestamp="14546500521773" >
         <artifact
-            location="/home/deepakj/Android/Knockathon_outlaws/outlaws/develop/app/outlaws_project/app/build/outputs/apk/app-debug.apk"
+            location="/home/deepakj/Android/outlaws/develop/app/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="14711719968071" >
+        <artifact
+            location="/home/deepakj/Android/outlaws/develop/app/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

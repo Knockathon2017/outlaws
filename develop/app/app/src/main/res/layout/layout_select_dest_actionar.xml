@@ -25,6 +25,6 @@
         android:text="SKIP"
         android:textColor="@color/blue_usher"
         android:padding="@dimen/padding_16dp"
-        android:visibility="visible"/>
+        android:visibility="invisible"/>
 
 </RelativeLayout>
